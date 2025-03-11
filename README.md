@@ -9,7 +9,7 @@
 ### Part 1:
 - Part 1 of this project uses BeautifulSoup to scrape the Mars news site and loop through the articles to print a list of the titles and article previews.
 
-## Part 2:
+### Part 2:
 - Part 2 of this project is designed to scrape and analyze data from the Mars Temperature Data site, return charts to help visualize the data and create csv of the data collected.
 
 ## Analysis
