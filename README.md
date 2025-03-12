@@ -46,6 +46,9 @@ Which months have the lowest and the highest atmospheric pressure on Mars?
 ### Minimum Temperature over Time
 ![min_temp_over_time_chart](charts/min_temp_over_time_chart.png)
 
+About how many terrestrial (Earth) days exist in a Martian year? 
+- We can see throughout the cycle of the temperature data that it repeats the pattern around every 650-750 terrestrial days, which leads me to believe this is around the length of a Martian year, or a full rotation of mars around the sun.
+
 ## Acknowledgements
 **Data Sources**: 
 - https://static.bc-edx.com/data/web/mars_news/index.html 
